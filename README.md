@@ -1,4 +1,4 @@
-# England Life Expectancy: Spatial Analytics & Socioeconomic Modeling
+# England-Life-Expectancy-Spatial-Analysis
 
 A rigorous, reproducible spatial data science framework engineered to investigate, model, and quantify the structural and socioeconomic drivers of regional life expectancy disparities across English Local Authorities.
 
