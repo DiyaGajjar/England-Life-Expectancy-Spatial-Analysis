@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Quantifying the Structural North-South Health Gradient: A Staged OLS Regression Framework on English Deprivation</dc:title>
+    <dc:creator>Diya Gajjar</dc:creator>
+    <dc:subject>Spatial Data Science; Econometric Modeling; Ordinary Least Squares; Public Health Policy; Spatial Segmentation</dc:subject>
+    <dc:description>A structural data framework analyzing nationwide staged OLS regression pipelines and spatial clustering architectures to quantify regional health inequalities across English local authorities.</dc:description>
+    <dc:publisher>MSc Data Science Portfolio</dc:publisher>
+    <dc:date>2026-06-01</dc:date>
+    <dc:type>Dataset; Software Pipeline; Research Artifact</dc:type>
+    <dc:format>CSV; Jupyter Notebook (.ipynb)</dc:format>
+    <dc:identifier>https://github.com/England-Life-Expectancy-Spatial-Analysis</dc:identifier>
+    <dc:language>en</dc:language>
+    <dc:coverage>England; Greater England Local Authority Districts (2019 Boundaries)</dc:coverage>
+</metadata>
