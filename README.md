@@ -25,7 +25,7 @@ To replicate the spatial pipelines and modeling architectures locally:
 ### Methodology
 The analysis follows a professional data science pipeline, as detailed in the included research report:
 
-* **Data Preparation & Cleaning (Python):** Processed and unified multiple ONS and government datasets, mapping them to Local Authority District (LAD) codes and standardizing feature sets.
+* **Data Preparation & Cleaning:** Processed and unified multiple ONS and government datasets, mapping them to Local Authority District (LAD) codes and standardizing feature sets.
 * **Feature Engineering:** Applied logarithmic transformations ($\log_{10}$) to stabilize right-skewed infrastructural variables (e.g., `Population_Density`) and performed Z-score normalization for coefficient comparability.
 * **Market Segmentation:** Deployed an unsupervised K-Means clustering algorithm on life expectancy metrics to compute a mathematically objective threshold, establishing a data-driven baseline for regional health divides.
 * **Explanatory Modeling:** Developed a series of 5 staged multivariable OLS regressions guided by a Directed Acyclic Graph (DAG) to isolate structural path mediators, controlling for heteroscedasticity using HC3 Robust Standard Errors.
